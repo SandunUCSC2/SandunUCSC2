@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandun Chathuranga</h1>
 <h3 align="center">Undergraduate at University of Colombo School of Computing</h3>
 
-<p align="left"> <img src="" alt="sandunucsc2" /> </p>
+<p align="left"> <img src="https://github.com/SandunUCSC2/SandunUCSC2/blob/main/Banner.png" alt="sandunucsc2" /> </p>
 
 - 🌱 I’m currently learning **React, Spring, Node, Flutter**
 
